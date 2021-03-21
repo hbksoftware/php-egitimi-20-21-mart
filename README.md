@@ -6,7 +6,9 @@ Dünyamızda gerçekleşen dijital dönüşümün etkileri her açıdan hissedil
 21 Mart – Blog Sitemizi Yapıyoruz 2
 
 Dosyalarda bulunan blog.sql dosyayı veritabanıza import edebilirsiniz. Yapabilmeniz için örnek bir video bırakıyorum.Artı olarak'da config içerisinde veritabanı bilgilerini düzeltmeyi unutmayın :)
+
 https://www.youtube.com/watch?v=IPFfZYHbTyo
+
 Yönetim Panelinde Menü Kontrol Sistemi Kurulumu,
 Yönetim Panelinde Slider Kontrol Sistemi Kurulum,
 Yönetim Panelinde Post Kontrol Sistemi Kurulum
