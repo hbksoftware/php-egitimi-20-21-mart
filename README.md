@@ -5,7 +5,7 @@ Dünyamızda gerçekleşen dijital dönüşümün etkileri her açıdan hissedil
 20 Mart – Blog Sitemizi Yapıyoruz
 21 Mart – Blog Sitemizi Yapıyoruz 2
 
-Dosyalarda bulunan blog.sql dosyayı veritabanıza import edebilirsiniz. Yapabilmeniz için örnek bir video bırakıyorum.Artı olarak'da config içerisinde veritabanı bilgilerini düzeltmeyi unutmayın :)
+Dosyalarda bulunan blog.sql dosyayı veri tabanıza import edebilirsiniz. Yapabilmeniz için örnek bir video bırakıyorum.Artı olarak config içerisinde veritabanı bilgilerini düzeltmeyi unutmayın :)
 
 https://www.youtube.com/watch?v=IPFfZYHbTyo
 
